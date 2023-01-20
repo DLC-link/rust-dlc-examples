@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "sports-betting",
-    "degen-leverage"
+    "degen-leverage",
+    "multi-oracle-example"
 ]
